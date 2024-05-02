@@ -4,7 +4,7 @@ It features a login and create account menu that connects to a server and databa
 This is a pirate themed gambling game. 
 
 HOW TO PLAY  
--run the server first then run man
+-run the server first then run main
 -login or create new account
 -place a desired amount to bet  
 -choose either heads or tails if in coin game  
